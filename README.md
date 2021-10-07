@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nick Tinnapat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p>Software Enginner at <a href="https://www.src.ku.ac.th/">Kasetsart University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Backend Developer at <a href="https://www.localhost.com">Unknow</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Software Enginner at <a href="https://www.src.ku.ac.th/">Kasetsart University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Backend Developer at <a href="https://www.codium.co">COD1UM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
 [![Twitter: Tinnapat](https://img.shields.io/twitter/follow/Tinnapat?style=social)](https://twitter.com/Unknow_account)
