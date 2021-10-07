@@ -6,7 +6,7 @@
 [![Twitter: Tinnapat](https://img.shields.io/twitter/follow/Tinnapat?style=social)](https://twitter.com/Unknow_account)
 [![Linkedin: Tinnapat](https://img.shields.io/badge/-Tinnapat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unknowaccount/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub d3dmenu](https://img.shields.io/github/followers/d3dmenu?label=follow&style=social)](https://github.com/d3dmenu)
-<img align='right' src="code.gif" width="480">
+<img align='right' src="code.gif" width="470">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
